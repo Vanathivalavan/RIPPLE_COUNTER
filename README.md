@@ -63,7 +63,8 @@ Developed by: VANATHI T
 RegisterNumber: 25013590
 
 RTL LOGIC FOR 4 Bit Ripple Counter
-![Uploading Screenshot 2025-12-15 204441.png…]()
+
+<img width="1920" height="1020" alt="Screenshot 2025-12-15 204441" src="https://github.com/user-attachments/assets/91b523c8-2ad6-4e25-98a9-edecd1e9bbcd" />
 
 
 TIMING DIGRAMS FOR 4 Bit Ripple Counter
